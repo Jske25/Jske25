@@ -22,5 +22,5 @@ I'm passionate about building human-centered AI applications and solving real-wo
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jack-ke/)
-- 📧 jacks.ke25 [at] gmail.com
+- 📧 jack.sheng.ke@gmail.com
 - 🌐 [Portfolio / Projects](https://github.com/Jske25?tab=repositories)
